@@ -1,0 +1,56 @@
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.exe
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.AssemblyInfo.cs
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.RazorTargetAssemblyInfo.cache
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\staticwebassets\SPDapper.StaticWebAssets.Manifest.cache
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\staticwebassets\SPDapper.StaticWebAssets.xml
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.csproj.CopyComplete
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.deps.json
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.runtimeconfig.json
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.pdb
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.dll
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.pdb
+C:\Users\Dell\source\repos\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.genruntimeconfig.cache
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\appsettings.json
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.exe
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.deps.json
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.runtimeconfig.json
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.runtimeconfig.dev.json
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.dll
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\SPDapper.pdb
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.net projets\SPDapper\SPDapper\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.csprojAssemblyReference.cache
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.AssemblyInfoInputs.cache
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.AssemblyInfo.cs
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.csproj.CoreCompileInputs.cache
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.MvcApplicationPartsAssemblyInfo.cache
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.RazorTargetAssemblyInfo.cache
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.csproj.CopyComplete
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\staticwebassets\SPDapper.StaticWebAssets.Manifest.cache
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\staticwebassets\SPDapper.StaticWebAssets.xml
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.dll
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.pdb
+D:\.net projets\SPDapper\SPDapper\obj\Debug\netcoreapp3.1\SPDapper.genruntimeconfig.cache
